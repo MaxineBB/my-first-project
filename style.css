@@ -1,4 +1,10 @@
-h1 {
-    color: blue;
+h1,
+h2 {
     text-align: center;
+}
+h1 {
+    color: orangered;
+}
+h2 {
+    color: rebeccapurple;
 }
